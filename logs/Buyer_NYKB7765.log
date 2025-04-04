@@ -1,0 +1,17 @@
+purchaseShare → Purchase successful. You bought 250 of Equity-NYKM108212
+purchaseRemoteShare → Cross-server purchase: Purchase successful. You bought 200 of Equity-LONM162534
+getShares → Your Shares:
+NewYork Market Shares:
+[Share: Equity-NYKM108212, Owned: 250]
+
+London Market Shares:
+[Share: Equity-LONM162534, Owned: 200]
+
+sellRemoteShare → Cross-server sell: Sell operation successful. Sold 50 of Equity-LONM162534
+getShares → Your Shares:
+NewYork Market Shares:
+[Share: Equity-NYKM108212, Owned: 250]
+
+London Market Shares:
+[Share: Equity-LONM162534, Owned: 150]
+

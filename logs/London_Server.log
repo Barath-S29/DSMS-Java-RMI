@@ -1,0 +1,12 @@
+[2025-02-20 22:35:26] Add Share | Params: ShareID: LONM120225, ShareType: Equity, Capacity: 50 | Status: Successfully Completed
+[2025-02-20 22:41:44] Add Share | Params: ShareID: LONA130225, ShareType: Bonus, Capacity: 50 | Status: Successfully Completed
+[2025-02-28 00:39:47] Add Share | Params: ShareID: LONM102425, ShareType: Equity, Capacity: 200 | Status: Successfully Completed
+[2025-02-28 00:40:52] Purchase Share | Params: BuyerID: NYKB1203, ShareID: LONM102425, ShareType: Equity, Quantity: 100 | Status: Successfully Completed
+[2025-02-28 00:41:01] Get Shares | Params: BuyerID: NYKB1203 | Status: Successfully Completed
+[2025-02-28 00:41:21] Sell Share | Params: BuyerID: NYKB1203, ShareID: LONM102425, Quantity: 50 | Status: Successfully Completed
+[2025-02-28 00:41:48] Get Shares | Params: BuyerID: NYKB1203 | Status: Successfully Completed
+[2025-02-28 02:08:25] Add Share | Params: ShareID: LONM162534, ShareType: Equity, Capacity: 500 | Status: Successfully Completed
+[2025-02-28 02:09:22] Purchase Share | Params: BuyerID: NYKB7765, ShareID: LONM162534, ShareType: Equity, Quantity: 200 | Status: Successfully Completed
+[2025-02-28 02:09:23] Get Shares | Params: BuyerID: NYKB7765 | Status: Successfully Completed
+[2025-02-28 02:09:55] Sell Share | Params: BuyerID: NYKB7765, ShareID: LONM162534, Quantity: 50 | Status: Successfully Completed
+[2025-02-28 02:09:56] Get Shares | Params: BuyerID: NYKB7765 | Status: Successfully Completed

@@ -1,0 +1,23 @@
+[2025-02-20 22:34:50] Add Share | Params: ShareID: NYKM130225, ShareType: Equity, Capacity: 50 | Status: Successfully Completed
+[2025-02-20 22:36:59] Remove Share | Params: ShareID: NYKM130225, ShareType: Equity | Status: Successfully Completed
+[2025-02-20 22:39:44] Add Share | Params: ShareID: NYKM120225, ShareType: Equity, Capacity: 50 | Status: Successfully Completed
+[2025-02-20 22:41:05] Add Share | Params: ShareID: NYKM120225, ShareType: Equity, Capacity: 50 | Status: Successfully Completed
+[2025-02-20 22:42:38] Purchase Share | Params: BuyerID: NYKB2008, ShareID: LONA130225, ShareType: Bonus, Quantity: 25 | Status: Failed
+[2025-02-20 22:43:19] Purchase Share | Params: BuyerID: NYKB2008, ShareID: NYKM120225, ShareType: Equity, Quantity: 25 | Status: Successfully Completed
+[2025-02-20 22:43:21] Get Shares | Params: BuyerID: NYKB2008 | Status: Successfully Completed
+[2025-02-20 22:44:53] Add Share | Params: ShareID: NYKA120820, ShareType: Equity, Capacity: 500 | Status: Successfully Completed
+[2025-02-24 16:04:11] Add Share | Params: ShareID: NYKM120225, ShareType: Equity, Capacity: 500 | Status: Successfully Completed
+[2025-02-24 16:06:01] Add Share | Params: ShareID: NYKM120235, ShareType: Bonus, Capacity: 500 | Status: Successfully Completed
+[2025-02-28 00:39:31] Add Share | Params: ShareID: NYKM102325, ShareType: Equity, Capacity: 200 | Status: Successfully Completed
+[2025-02-28 00:40:25] Purchase Share | Params: BuyerID: NYKB1203, ShareID: NYKM102325, ShareType: Equity, Quantity: 100 | Status: Successfully Completed
+[2025-02-28 00:40:52] Purchase Remote Share | Params: BuyerID: NYKB1203, ShareID: LONM102425, Target: London, Quantity: 100 | Status: Successfully Completed
+[2025-02-28 00:41:01] Get Shares | Params: BuyerID: NYKB1203 | Status: Successfully Completed
+[2025-02-28 00:41:21] Sell Remote Share | Params: BuyerID: NYKB1203, ShareID: LONM102425, Target: London, Quantity: 50 | Status: Successfully Completed
+[2025-02-28 00:41:46] Sell Share | Params: BuyerID: NYKB1203, ShareID: NYKM102325, Quantity: 100 | Status: Successfully Completed
+[2025-02-28 00:41:48] Get Shares | Params: BuyerID: NYKB1203 | Status: Successfully Completed
+[2025-02-28 02:08:05] Add Share | Params: ShareID: NYKM108212, ShareType: Equity, Capacity: 500 | Status: Successfully Completed
+[2025-02-28 02:09:01] Purchase Share | Params: BuyerID: NYKB7765, ShareID: NYKM108212, ShareType: Equity, Quantity: 250 | Status: Successfully Completed
+[2025-02-28 02:09:22] Purchase Remote Share | Params: BuyerID: NYKB7765, ShareID: LONM162534, Target: London, Quantity: 200 | Status: Successfully Completed
+[2025-02-28 02:09:23] Get Shares | Params: BuyerID: NYKB7765 | Status: Successfully Completed
+[2025-02-28 02:09:55] Sell Remote Share | Params: BuyerID: NYKB7765, ShareID: LONM162534, Target: London, Quantity: 50 | Status: Successfully Completed
+[2025-02-28 02:09:56] Get Shares | Params: BuyerID: NYKB7765 | Status: Successfully Completed

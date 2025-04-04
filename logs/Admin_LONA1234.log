@@ -1,0 +1,12 @@
+listShareAvailability → Share: NYKM120225, Type: Equity, Available: 500
+addShare → Share added successfully: Equity-LONM102425
+listShareAvailability → [Share ID: LONM102425, Type: Equity, Available: 200]
+Share: NYKM102325, Type: Equity, Available: 200
+listShareAvailability → [Share ID: LONM102425, Type: Equity, Available: 200]
+Share: NYKM102325, Type: Equity, Available: 100
+listShareAvailability → [Share ID: LONM102425, Type: Equity, Available: 100]
+Share: NYKM102325, Type: Equity, Available: 100
+listShareAvailability → [Share ID: LONM102425, Type: Equity, Available: 150]
+Share: NYKM102325, Type: Equity, Available: 100
+listShareAvailability → [Share ID: LONM102425, Type: Equity, Available: 150]
+Share: NYKM102325, Type: Equity, Available: 200
